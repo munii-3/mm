@@ -66,7 +66,7 @@ body {
 .wrapper .btn {
     width: 100%;
     height: 45px;
-    background: #ece2e4;
+    background: #fbc1cc;
     border: none;
     outline: 20px;
     border-radius: 40px;
@@ -75,4 +75,8 @@ body {
     font-size: 16px;
     color: #a55555;
     font-weight: 600;
+}
+
+.btn:hover {
+ background: #FFFF;
 }
